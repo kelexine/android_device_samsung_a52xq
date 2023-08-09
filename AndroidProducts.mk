@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_a52xq.mk
+    $(LOCAL_DIR)/twrp_a52xq.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_a52xq-user \
-    omni_a52xq-userdebug \
-    omni_a52xq-eng
+    twrp_a52xq-user \
+    twrp_a52xq-userdebug \
+    twrp_a52xq-eng
